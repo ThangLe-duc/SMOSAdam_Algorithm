@@ -4,7 +4,7 @@ We open-source a Matlab-based package for training neural networks by our propos
 2. How to solve DNN training problems by SMO-SAdam software package: • Put the problem dataset into the “Datasets” folder and preprocess the problem in the main function • Specify the network structures in the function "Leader_Follower_Nets.m", general learning hyperparameters and SMO-SAdam settings in the main function and the relating ones in “SMOSAdam_Package” • Run main function and wait until the training process stops. • The network parameters and statistical results are recorded in the DNN.mat and results.mat, respectively.
 
 # Programmer
-Thang Le-Duc, Deep Learning Architecture Research Center, Sejong University, email: le.duc.thang0312@gmail.com
+Thang Le-Duc, Deep Learning Architecture Research Center, Sejong University, email: le.duc.thang0312@gmail.com; thangld@sju.ac.kr
 
 # Reference
 Le-Duc, Thang, H. Nguyen-Xuan, and Jaehong Lee. "Sequential motion optimization with short-term adaptive moment estimation for deep learning problems." Engineering Applications of Artificial Intelligence 129 (2024): 107593.
